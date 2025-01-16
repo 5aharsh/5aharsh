@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=5aharsh&label=Profile%20views&color=0e75b6&style=flat" alt="5aharsh" /> </p>
 
-- 💼 I’m currently working at **Goldman Sachs**
+- 💼 I’m currently working at **Salesforce**
 
 - 🌱 I’m currently learning **Go, Svelte and LangChain**
 
