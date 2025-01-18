@@ -9,7 +9,7 @@
 
 - 🧘🏻 I like basketball, beaches, writing silly code and geeking out on cool things.
 
-- 🛜 Feel free to checkout my <a href="https://5aharsh.github.io/">portfolio site</a> or <a href="https://5aharsh.github.io/static/Saharsh_Resume.pdf">resume</a>
+- 🎨 Feel free to checkout my <a href="https://5aharsh.github.io/">portfolio site</a> or <a href="https://5aharsh.github.io/static/Saharsh_Resume.pdf">resume</a>
 
 <h3 align="left">Contact:</h3>
 <p>You can reach out to me at these places:</p>
